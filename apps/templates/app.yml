@@ -6,7 +6,7 @@ metadata:
 spec:
   project: default
   source:
-    repoURL: 
+    repoURL: https://github.com/ashwani-opstree/argocd-example-install.git
     targetRevision: HEAD
     path: argo/example-app
     directory:
